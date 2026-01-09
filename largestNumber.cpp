@@ -9,7 +9,6 @@ void compare();
 void getInfo(){
     cout<<"Enter the number 1 ,2 ,3 respactively : ";
     cin>>a>>b>>c;
-
     compare();
 }
 
@@ -20,7 +19,7 @@ void compare(){
         }else{
             cout<<a<<">"<<c<<">"<<b;
         }
-       
+        
     }else if(b>c and b>a){
         if(c>a){
             cout<<b<<">"<<c<<">"<<a;
