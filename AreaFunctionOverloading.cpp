@@ -19,7 +19,7 @@ void area(int r){
     
     this ->r  = r;
 
-    cout<<"Circle Area is : "<<(22/7.0)*r*r<<endl; 
+    cout<<"Circle Area is : "<<(22/7.0)*r*r<<endl; 2..
 }
 
 };
